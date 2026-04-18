@@ -12,6 +12,7 @@ Start here:
 - Chinese overview: [README.zh-CN.md](README.zh-CN.md)
 - Contributing guide: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Release notes: [OPEN_SOURCE_NOTES.md](OPEN_SOURCE_NOTES.md)
+- License: [MIT](LICENSE)
 
 The legacy draft content below is pending cleanup.
 

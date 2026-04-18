@@ -6,6 +6,7 @@ This repository is being cleaned up for open-source release.
 
 Start here:
 
+- AI development rules: [AGENTS.md](AGENTS.md)
 - English usage notes: [AI_USAGE_GUIDE.md](AI_USAGE_GUIDE.md)
 - English quickstart: [AI_QUICKSTART.md](AI_QUICKSTART.md)
 - Capability model: [docs/capabilities.md](docs/capabilities.md)

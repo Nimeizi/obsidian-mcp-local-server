@@ -2,6 +2,8 @@
 
 Thanks for your interest in improving Obsidian MCP Bridge.
 
+If you are working with an AI coding agent, point it to `AGENTS.md` first.
+
 ## Development setup
 
 Requirements:

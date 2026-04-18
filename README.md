@@ -12,7 +12,13 @@ Start here:
 - Chinese overview: [README.zh-CN.md](README.zh-CN.md)
 - Contributing guide: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Release notes: [OPEN_SOURCE_NOTES.md](OPEN_SOURCE_NOTES.md)
+- GitHub release draft: [RELEASE_TEMPLATE.md](RELEASE_TEMPLATE.md)
 - License: [MIT](LICENSE)
+
+Release automation:
+
+- CI runs on pushes and pull requests
+- pushing a tag like `v0.2.0` builds the plugin and publishes `main.js` + `manifest.json` to GitHub Releases
 
 The legacy draft content below is pending cleanup.
 

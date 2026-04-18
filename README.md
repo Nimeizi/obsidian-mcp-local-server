@@ -1,5 +1,20 @@
 # Obsidian MCP Bridge
 
+Local-first MCP bridge for Obsidian with capability-based access control.
+
+This repository is being cleaned up for open-source release.
+
+Start here:
+
+- English usage notes: [AI_USAGE_GUIDE.md](AI_USAGE_GUIDE.md)
+- English quickstart: [AI_QUICKSTART.md](AI_QUICKSTART.md)
+- Capability model: [docs/capabilities.md](docs/capabilities.md)
+- Chinese overview: [README.zh-CN.md](README.zh-CN.md)
+- Contributing guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Release notes: [OPEN_SOURCE_NOTES.md](OPEN_SOURCE_NOTES.md)
+
+The legacy draft content below is pending cleanup.
+
 一个本地优先的 Obsidian 插件，用 Obsidian 官方插件 API 暴露一个 MCP 兼容的 HTTP 接口，让外部 AI 客户端能直接读取、查询并安全地修改你的笔记库。
 
 ## 目标

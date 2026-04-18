@@ -2,8 +2,16 @@
   "name": "obsidian-mcp-bridge",
   "version": "0.2.0",
   "private": true,
-  "description": "Obsidian plugin that exposes vault operations over an MCP-compatible HTTP endpoint.",
+  "description": "Local-first MCP bridge for Obsidian with capability-based access control.",
   "main": "main.js",
+  "keywords": [
+    "obsidian",
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "plugin",
+    "knowledge-base"
+  ],
   "scripts": {
     "build": "node esbuild.config.mjs",
     "dev": "node esbuild.config.mjs --watch"

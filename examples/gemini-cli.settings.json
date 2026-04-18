@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "httpUrl": "http://127.0.0.1:27124/mcp",
+      "headers": {
+        "Authorization": "Bearer REPLACE_WITH_YOUR_TOKEN"
+      }
+    }
+  }
+}

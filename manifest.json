@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-mcp-bridge",
+  "name": "Obsidian MCP Bridge",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "Expose safe vault read/write/search tools over an MCP-compatible HTTP endpoint.",
+  "author": "OpenAI Codex",
+  "authorUrl": "https://openai.com",
+  "isDesktopOnly": true
+}
